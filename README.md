@@ -44,10 +44,12 @@ Passionate about software engineering, IT infrastructure, and process automation
 
 ---
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" >
+</div>
+
 <p align="center">
   <sub><i>"Constantly learning and automating the world, one script at a time."</i></sub>
 </p>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" >
-</div>
+
