@@ -28,6 +28,10 @@ Passionate about software engineering, IT infrastructure, and process automation
 - Designed a relational database architecture using **PostgreSQL**.
 - Optimized inventory control and generated operational reports using advanced SQL queries.
 
+### 🎵 Music player 
+- Created a Music Player using a Raspberry Pi Zero 2w, a display and a PCM5102A DAC
+- Built with **Python**
+- Spotify compatible
 ---
 
 ## 📜 Certifications
