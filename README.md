@@ -58,9 +58,12 @@
 - Compatible con **Spotify**, construido con **Python** 🍓
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/ZxMbCt3LYIIAAAAd/annoying-dog.gif" />
+  <img src="https://i.redd.it/dboq1vzz02dd1.gif" width="100" />
 </p>
+
+
 ---
+
 
 ### 📜 Certificaciones
 
