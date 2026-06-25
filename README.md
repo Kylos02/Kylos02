@@ -135,9 +135,8 @@
   <sub><i>"Constantly learning and automating the world, one script at a time." 🤖</i></sub>
 </p>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
-
 <p align="right">
   <img src="https://i.redd.it/dboq1vzz02dd1.gif" width="75" />
 </p>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
