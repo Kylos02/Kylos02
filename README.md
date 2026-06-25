@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364" alt="Header" style="max-width:100%;" />
 
 <h1 align="center">¡Hola! Soy Andrés 👨‍💻</h1>
-<p align="center">
-  <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="150">
-</p>
 <h3 align="center">Computer Engineering Student · UNAM FI · Automatizando el mundo, un script a la vez</h3>
 
 <p align="center">
@@ -14,6 +11,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Kylos02&style=for-the-badge&color=2c5364" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="150">
 </p>
 
 ---
