@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364" alt="Header" style="max-width:100%;" />
 
 <p align="center">
-  <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="50">
+  <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="150">
 </p>
 
 
