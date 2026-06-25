@@ -61,7 +61,6 @@
   <img src="https://i.redd.it/dboq1vzz02dd1.gif" width="100" />
 </p>
 
-
 ---
 
 
@@ -92,7 +91,10 @@
   </tr>
 </table>
 
+
 ---
+
+
 ### Music Recommendation
 
 <p align="center">
@@ -124,7 +126,10 @@
   </tr>
 </table>
 
+
 ---
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" width="150" />
 </p>
