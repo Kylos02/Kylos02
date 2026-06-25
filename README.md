@@ -31,16 +31,9 @@
 
 ### 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <img src="https://img.wattpad.com/1a309416834abdfa4dd0ffdaefed8a428f17deec/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6e526274424f536e79465f3332673d3d2d3935302e313536363463363966393333396237643733313737393731303336332e676966?s=fit&w=720&h=720" width="120px" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,java,cs,c,postgres,html,css,docker,linux,git,gcp,bash&theme=dark" />
-    </td>
-  </tr>
-</table>
+  <p align="middle">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,c,postgres,html,css,docker,linux,git,gcp,bash&theme=dark" />
+  </p>
 
 ### 🌟 Proyectos destacados
 
@@ -64,6 +57,9 @@
 - **Raspberry Pi Zero 2W** + pantalla + DAC PCM5102A
 - Compatible con **Spotify**, construido con **Python** 🍓
 
+<p align="right">
+  <img src="https://media1.tenor.com/m/ZxMbCt3LYIIAAAAd/annoying-dog.gif" />
+</p>
 ---
 
 ### 📜 Certificaciones
