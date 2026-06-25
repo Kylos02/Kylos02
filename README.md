@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d2b0d,50:1a5c1a,100:2d8a2d" alt="Header" style="max-width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b3d2e,50:1a7a5e,100:2ec4a0" alt="Header" style="max-width:100%;" />
 
 <h1 align="center">¡Hola! Soy Andrés 👨‍💻</h1>
 <h3 align="center">Computer Engineering Student · UNAM FI</h3>
@@ -142,4 +142,4 @@
   <sub><i>"Constantly learning and automating the world, one script at a time." 🤖</i></sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2ec4a0,50:1a7a5e,100:0b3d2e" alt="Footer" style="max-width:100%;" />
