@@ -18,10 +18,10 @@
 ### 🚀 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería en Computación** en la UNAM FI, último año
-- ⚙️ Apasionado por la **infraestructura IT**, **automatización de procesos** y **software engineering**
+- ⚙️ Apasionado por **infraestructura IT**, **automatización de procesos**, **bases de datos**, **ciberseguridad** e **inteligencia artificial**
 - ☁️ Certificado en **Google Cloud** y metodologías **Scrum**
 - 🛠️ Me gusta construir cosas que funcionen bien *y* que se vean bien
-- 🎵 Fun fact: armé mi propio reproductor de música con Raspberry Pi porque sí 🍓
+- 🎵 Fun fact: armé mi propio reproductor de música con Raspberry Pi porque sí 🗣️🗣️🗣️
 
 ---
 
@@ -92,6 +92,36 @@
 </table>
 
 ---
+### Music Recommendation
+
+<p align="center">
+  <a href="https://open.spotify.com/user/12139992852?si=6fa97138b2744d8c" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-es/album/4hRYKs4qN5yVViWJvCUiCT?si=5e4c4aa59e6442b1" target="_blank">
+        <img src="https://cdn-images.dzcdn.net/images/cover/c5d76d24240ada37c7e7b865be099b12/1900x1900-000000-80-0-0.jpg" width="100px" alt="Portada Álbum 1" />
+      </a>
+      <br><sub><b>Un instante - Louta</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=kGw6cnnlcvA&list=RDkGw6cnnlcvA&start_radio=1" target="_blank">
+        <img src="https://f4.bcbits.com/img/a3523847771_10.jpg" width="100px" alt="Portada Álbum 2" />
+      </a>
+      <br><sub><b>Hit Vibes - Saint Pepsi</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-es/album/4CKMDfvdrGb71J8GoUqDPP?si=eNSfyPQbSc2x_aX6Gik2VA" target="_blank">
+        <img src="https://cdn-images.dzcdn.net/images/cover/391aef49e0417d9f9eb81110b0cac1a9/0x1900-000000-80-0-0.jpg" width="100px" alt="Portada Álbum 3" />
+      </a>
+      <br><sub><b>La Máquina Persona - Méne</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" width="120" />
@@ -102,3 +132,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
+<p align="right">
+  <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="50">
+</p>
