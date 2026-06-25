@@ -122,6 +122,7 @@
     </td>
   </tr>
 </table>
+
 ---
 <p align="center">
   <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" width="150" />
@@ -131,7 +132,9 @@
   <sub><i>"Constantly learning and automating the world, one script at a time." 🤖</i></sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
-<p align="left">
+<p align="center">
   <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="50">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
+
