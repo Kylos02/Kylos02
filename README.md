@@ -122,9 +122,9 @@
     </td>
   </tr>
 </table>
-
+---
 <p align="center">
-  <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" width="120" />
+  <img src="https://media1.tenor.com/m/WsWej1C3ePYAAAAC/yippee-cat-kitty.gif" width="150" />
 </p>
 
 <p align="center">
@@ -132,6 +132,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" alt="Footer" style="max-width:100%;" />
-<p align="right">
+<p align="left">
   <img src="https://media.tenor.com/gw68cm5zEgEAAAAi/noelle.gif" width="50">
 </p>
